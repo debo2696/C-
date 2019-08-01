@@ -1,8 +1,8 @@
-/*1>*           2>     A
-   * *                ABA
-  * * *              ABCBA
- * * * *            ABCDCBA
-* * * * *          ABCDEDCBA */
+/*1>  *           2>     A
+     * *                ABA
+    * * *              ABCBA
+   * * * *            ABCDCBA
+  * * * * *          ABCDEDCBA */
 using System;
 using System.Collections.Generic;
 using System.Linq;
